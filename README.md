@@ -9,3 +9,4 @@ tototototo
 opopopopop
 first-pipeline
 pipeline
+trigger pipeline 
