@@ -4,3 +4,5 @@ trying to trigger testjenkins project
 echo fix
 kjhkjhkj
 tototototo
+ /n
+ new things
